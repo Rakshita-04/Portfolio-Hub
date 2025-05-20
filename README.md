@@ -33,9 +33,4 @@ It helps freelancers and developers efficiently manage and showcase their person
 
 ---
 
-## 🚀 How to Run the Project Locally
 
-### 📁 1. Clone or Download
-
-```bash
-git clone https://github.com/Rakshita-04/portfolio-hub.git
